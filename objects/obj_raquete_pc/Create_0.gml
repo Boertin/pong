@@ -1,0 +1,1 @@
+vspeed = global.velyball - 0.5

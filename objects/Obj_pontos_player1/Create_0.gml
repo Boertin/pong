@@ -1,0 +1,1 @@
+global.pontos_p1 = 0;

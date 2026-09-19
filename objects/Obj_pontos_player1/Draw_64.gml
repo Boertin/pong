@@ -1,0 +1,1 @@
+draw_text(1213,30,global.pontos_p1)

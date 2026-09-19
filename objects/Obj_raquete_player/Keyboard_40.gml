@@ -1,0 +1,1 @@
+y = y + global.vel_raquete
